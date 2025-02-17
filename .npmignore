@@ -3,5 +3,4 @@
 .gitignore
 tsconfig.json
 rollup.config.js
-yarn.lock
 package-lock.json
